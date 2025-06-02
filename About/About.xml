@@ -8,7 +8,10 @@
   <packageId>bblkepling.PipiruPiruPiruPipiruPii</packageId>
   <description>Adds "Pipiru Piru Piru Pipiru Pii" from Bokusatsu Tenshi Dokuro-chan to items and abilities that resurrect pawns.</description>
   <modDependencies>
+    <li>
+      <packageId>bblkepling.framework.bibliophile</packageId>
+      <displayName>Bibliophile Framework</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/</steamWorkshopUrl>
+    </li>
   </modDependencies>
-  <loadAfter>
-  </loadAfter>
 </ModMetaData>
