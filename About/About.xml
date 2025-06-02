@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Pipiru Piru Piru Pipiru Pii</name>
+  <author>bblkepling</author>
+  <supportedVersions>
+    <li>1.5</li>
+  </supportedVersions>
+  <packageId>bblkepling.PipiruPiruPiruPipiruPii</packageId>
+  <description>Adds "Pipiru Piru Piru Pipiru Pii" from Bokusatsu Tenshi Dokuro-chan to items and abilities that resurrect pawns.</description>
+  <modDependencies>
+  </modDependencies>
+  <loadAfter>
+  </loadAfter>
+</ModMetaData>
