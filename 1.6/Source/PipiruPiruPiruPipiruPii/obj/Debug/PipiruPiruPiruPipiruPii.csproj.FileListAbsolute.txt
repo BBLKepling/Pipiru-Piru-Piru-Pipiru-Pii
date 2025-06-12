@@ -1,0 +1,12 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Pipiru Piru Piru Pipiru Pii\1.5\Assemblies\PipiruPiruPiruPipiruPii.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Pipiru Piru Piru Pipiru Pii\1.5\Assemblies\PipiruPiruPiruPipiruPii.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Pipiru Piru Piru Pipiru Pii\1.5\Source\PipiruPiruPiruPipiruPii\obj\Debug\PipiruPiruPiruPipiruPii.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Pipiru Piru Piru Pipiru Pii\1.5\Source\PipiruPiruPiruPipiruPii\obj\Debug\PipiruPiruPiruPipiruPii.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Pipiru Piru Piru Pipiru Pii\1.5\Source\PipiruPiruPiruPipiruPii\obj\Debug\PipiruPiruPiruPipiruPii.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Pipiru Piru Piru Pipiru Pii\1.5\Source\PipiruPiruPiruPipiruPii\obj\Debug\PipiruPiruPiruPipiruPii.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Pipiru-Piru-Piru-Pipiru-Pii\1.6\Assemblies\PipiruPiruPiruPipiruPii.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Pipiru-Piru-Piru-Pipiru-Pii\1.6\Assemblies\PipiruPiruPiruPipiruPii.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Pipiru-Piru-Piru-Pipiru-Pii\1.6\Source\PipiruPiruPiruPipiruPii\obj\Debug\PipiruPiruPiruPipiruPii.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Pipiru-Piru-Piru-Pipiru-Pii\1.6\Source\PipiruPiruPiruPipiruPii\obj\Debug\PipiruPiruPiruPipiruPii.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Pipiru-Piru-Piru-Pipiru-Pii\1.6\Source\PipiruPiruPiruPipiruPii\obj\Debug\PipiruPiruPiruPipiruPii.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Pipiru-Piru-Piru-Pipiru-Pii\1.6\Source\PipiruPiruPiruPipiruPii\obj\Debug\PipiruPiruPiruPipiruPii.pdb
