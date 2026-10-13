@@ -1,0 +1,13 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Pipiru-Piru-Piru-Pipiru-Pii\1.7\Assemblies\Debug\PipiruPiruPiruPipiruPii.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Pipiru-Piru-Piru-Pipiru-Pii\1.7\Assemblies\Debug\PipiruPiruPiruPipiruPii.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Pipiru-Piru-Piru-Pipiru-Pii\1.7\Source\PipiruPiruPiruPipiruPii\obj\Debug\PipiruPiruPiruPipiruPii.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Pipiru-Piru-Piru-Pipiru-Pii\1.7\Source\PipiruPiruPiruPipiruPii\obj\Debug\PipiruPiruPiruPipiruPii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Pipiru-Piru-Piru-Pipiru-Pii\1.7\Source\PipiruPiruPiruPipiruPii\obj\Debug\PipiruPiruPiruPipiruPii.AssemblyInfoInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Pipiru-Piru-Piru-Pipiru-Pii\1.7\Source\PipiruPiruPiruPipiruPii\obj\Debug\PipiruPiruPiruPipiruPii.AssemblyInfo.cs
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Pipiru-Piru-Piru-Pipiru-Pii\1.7\Source\PipiruPiruPiruPipiruPii\obj\Debug\PipiruPiruPiruPipiruPii.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Pipiru-Piru-Piru-Pipiru-Pii\1.7\Source\PipiruPiruPiruPipiruPii\obj\Debug\PipiruPiruPiruPipiruPii.sourcelink.json
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Pipiru-Piru-Piru-Pipiru-Pii\1.7\Source\PipiruPiruPiruPipiruPii\obj\Debug\PipiruPiruPiruPipiruPii.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Pipiru-Piru-Piru-Pipiru-Pii\1.7\Source\PipiruPiruPiruPipiruPii\obj\Debug\refint\PipiruPiruPiruPipiruPii.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Pipiru-Piru-Piru-Pipiru-Pii\1.7\Source\PipiruPiruPiruPipiruPii\obj\Debug\PipiruPiruPiruPipiruPii.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Pipiru-Piru-Piru-Pipiru-Pii\1.7\Source\PipiruPiruPiruPipiruPii\obj\Debug\ref\PipiruPiruPiruPipiruPii.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Pipiru-Piru-Piru-Pipiru-Pii\1.7\Source\PipiruPiruPiruPipiruPii\obj\Debug\PipiruPi.D215ED34.Up2Date
